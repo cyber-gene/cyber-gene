@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Github stats
+![](https://raw.githubusercontent.com/cyber-gene/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cyber-gene/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-gene&show_icons=true&theme=transparent)
